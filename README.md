@@ -1,8 +1,5 @@
 ## Chào bạn, mình là Võ Trường Sinh 👋
 
-<a href="[Link LinkedIn của bạn - THAY THẾ VÀO ĐÂY]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hồ sơ LinkedIn"/>
-</a>
 <a href="mailto:sinhtruongvo@gmail.com">
     <img src="https://img.shields.io/badge/Gửi%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gửi Email"/>
 </a>
