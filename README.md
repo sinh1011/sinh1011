@@ -20,8 +20,9 @@ Mình luôn sẵn sàng học hỏi, phát triển bản thân và hợp tác tr
 🛠️ **Công Nghệ & Kỹ Năng Chính**
 
 - **Ngôn ngữ:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?logo=css3) ![C++](https://img.shields.io/badge/-C++-333?logo=cplusplus)  
-- **Frameworks/Thư viện:** ![React](https://img.shields.io/badge/-React-333?logo=react) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333?logo=tailwindcss)  
-- **Công cụ & Nền tảng:** ![Git](https://img.shields.io/badge/-Git-333?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-333?logo=react) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333?logo=tailwindcss)  
+- **Công cụ Dev:** ![Git](https://img.shields.io/badge/-Git-333?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github)  
+- **Khác:** ![Photoshop](https://img.shields.io/badge/-Photoshop-333?logo=adobephotoshop) ![CapCut](https://img.shields.io/badge/-CapCut-333?logo=capcut) ![MS Office](https://img.shields.io/badge/-Microsoft%20Office-333?logo=microsoftoffice)
 
 ---
 
