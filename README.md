@@ -1,33 +1,38 @@
-## Chào bạn, mình là Võ Trường Sinh 👋
+# 👋 Xin chào, mình là Võ Trường Sinh
 
 <a href="mailto:sinhtruongvo@gmail.com">
-    <img src="https://img.shields.io/badge/Gửi%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gửi Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.facebook.com/truongsinh.vo.77" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 ---
 
-Mình là sinh viên mới tốt nghiệp ngành Công nghệ Thông tin tại **Trường Đại học Sài Gòn**, với niềm đam mê lớn dành cho **Lập trình Frontend**. Hiện tại, mình đang tập trung tự học để nâng cao kiến thức chuyên môn về **ReactJS** và các công nghệ web hiện đại.
-
-Mục tiêu của mình là vận dụng kiến thức nền tảng và sự nhiệt huyết để đóng góp vào các dự án sáng tạo với vai trò là một **Fresher Frontend Developer**. Mình luôn sẵn sàng học hỏi, phát triển bản thân và hợp tác trong một môi trường làm việc năng động.
-
----
-
-🛠️ **Công Nghệ & Kỹ Năng Chính**
-
-* **Ngôn ngữ:** JavaScript (ES6+), HTML5, CSS3, C++
-* **Frameworks/Thư viện:** ReactJS, Tailwind CSS
-* **Công cụ & Nền tảng:** Git, GitHub
+🎓 **Sinh viên Công nghệ Thông tin – Đại học Sài Gòn**  
+💻 Đam mê **Frontend Development**, đặc biệt với **ReactJS**  
+🚀 Mục tiêu: Trở thành **Fresher Frontend Developer** và không ngừng học hỏi, đóng góp vào các dự án sáng tạo.
 
 ---
 
-💡 **Hiện Đang Trau Dồi Kỹ Năng Về**
+## 🛠️ Kỹ Năng Chính
 
-* Xây dựng giao diện người dùng đáp ứng (responsive) và có tính tương tác cao với ReactJS.
-* Tìm hiểu các khái niệm React nâng cao và hệ sinh thái JavaScript rộng lớn hơn.
-* Các phương pháp hay nhất (best practices) trong phát triển web hiện đại và quản lý phiên bản với Git.
+- **Ngôn ngữ:** JavaScript (ES6+), HTML5, CSS3, C++  
+- **Frameworks/Thư viện:** ReactJS, Tailwind CSS  
+- **Công cụ & Nền tảng:** Git, GitHub  
 
 ---
 
-💬 **Kết Nối Với Mình Nhé!**
+## 📚 Hiện Đang Trau Dồi
 
-Mình đang tích cực tìm kiếm cơ hội và rất mong được trao đổi về việc mình có thể đóng góp như thế nào cho đội nhóm của bạn. Đừng ngần ngại liên hệ với mình qua [Email](mailto:sinhtruongvo@gmail.com).
+- Xây dựng giao diện **responsive & interactive** với ReactJS  
+- Khám phá **React nâng cao** và hệ sinh thái JavaScript  
+- Thực hành **best practices** trong phát triển web hiện đại  
+
+---
+
+## 🤝 Kết Nối
+
+Mình luôn sẵn sàng cho những cơ hội mới và muốn được trao đổi thêm về cách mình có thể đóng góp cho đội ngũ.  
+📧 [Gửi Email](mailto:sinhtruongvo@gmail.com)  
+📘 [Facebook](https://www.facebook.com/truongsinh.vo.77)
