@@ -25,7 +25,7 @@ const truongSinh = {
   location: "Hồ Chí Minh, Việt Nam 🆻🇳",
   passions: ["Frontend Development", "UI/UX Design", "ReactJS"],
   goal: "Xây dựng những giao diện đẹp và trải nghiệm người dùng tốt",
-  available: true  // Mở cơ hội hợp tác!
+  available: true  !
 };
 ```
 
