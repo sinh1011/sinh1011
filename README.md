@@ -1,95 +1,96 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=V%C3%B5%20Tr%C6%B0%E1%BB%9Dng%20Sinh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20ReactJS%20Enthusiast&descAlignY=51&descAlign=50" />
+<div align="center">
 
-<br> <a href="mailto:sinhtruongvo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/truongsinh.vo.77" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> </div>
-👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=V%C3%B5%20Tr%C6%B0%E1%BB%9Dng%20Sinh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20ReactJS%20Enthusiast&descAlignY=51&descAlign=50" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o!+M%C3%ACnh+l%C3%A0+Tr%C6%B0%E1%BB%9Dng+Sinh+%F0%9F%91%8B;Fresher+Frontend+Developer;ReactJS+%7C+HTML5+%7C+CSS3+%7C+JavaScript;S%C3%A3n+s%C3%A0ng+cho+c%C6%A1+h%E1%BB%99i+m%E1%BB%9Bi!)](https://git.io/typing-svg)
+
+<a href="mailto:sinhtruongvo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/truongsinh.vo.77" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 Về Mình
+
+```javascript
 const truongSinh = {
   name: "Võ Trường Sinh",
   role: "Fresher Frontend Developer",
-  education: "Đại học Sài Gòn - Công nghệ Thông tin 🎓",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  focus: ["Frontend Development", "ReactJS", "UI/UX"],
-  currentlyLearning: ["JavaScript", "ReactJS", "Tailwind CSS"],
-  goal: "Build beautiful, responsive and user-friendly web experiences",
-  available: true
+  education: "Đại học Sài Gòn - Công nghệ Thông tin",
+  location: "Hồ Chí Minh, Việt Nam 🆻🇳",
+  passions: ["Frontend Development", "UI/UX Design", "ReactJS"],
+  goal: "Xây dựng những giao diện đẹp và trải nghiệm người dùng tốt",
+  available: true  !
 };
+```
 
+---
 
-🎓 Graduated from Saigon University — Information Technology
+## 🛠️ Công Nghệ & Kỹ Năng
 
-🇬🇧 TOEIC: 550
-
-🚀 Currently looking for opportunities as a Fresher Frontend Developer
-
-🛠️ Tech Stack
-<div align="center">
-🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-💻 Programming
-<img src="https://skillicons.dev/icons?i=cpp" />
-🎨 UI / Design
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
-🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
-🌱 Currently Learning
-<div align="center">
-Technology	Focus
-⚛️ ReactJS	Hooks · Context · Component Architecture
-🟨 JavaScript	ES6+ · Async/Await · API · DOM
-🎨 Tailwind CSS	Responsive UI · Modern Layout
-📱 Responsive Design	Mobile-first · Cross-device UI
-</div>
-💼 What I'm Working On
-📚 Strengthening
-   ├── HTML5 / CSS3
-   ├── JavaScript ES6+
-   └── Responsive Web Design
-
-⚛️ Deepening
-   ├── ReactJS
-   ├── React Hooks
-   └── REST API
-
-🎨 Improving
-   ├── Tailwind CSS
-   ├── UI/UX
-   └── Clean & Maintainable Code
-
-🚀 Next Step
-   └── Build real-world Frontend projects
-
-🤖 AI-Assisted Development
-
-I use AI as a learning and development assistant, not as a replacement for understanding the code.
-
-💡 Ask AI when I'm stuck or need an explanation
-🐛 Use AI to help debug and find possible solutions
-🔍 Review and understand generated code before using it
-🧠 Focus on understanding the why, not just copying the how
-
-My goal: Become a developer who can code independently — and use AI to work smarter and faster. 🚀
-
-📂 Featured Projects
 <div align="center">
 
-🚧 Projects are currently in development...
+### Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-I'm working on several Frontend projects and will add them here soon.
+### Framework & Library
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
-🎯 Career Goal
-
-🚀 Fresher Frontend Developer
-
-I’m looking for an opportunity to work on real-world projects, learn from experienced developers, and grow into a professional Frontend Developer.
-
-💡 I enjoy turning ideas and designs into clean, responsive and user-friendly web interfaces.
-
-📫 Let's Connect
-<div align="center"> <a href="mailto:sinhtruongvo@gmail.com"> <img src="https://img.shields.io/badge/Email-sinhtruongvo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/truongsinh.vo.77" target="_blank"> <img src="https://img.shields.io/badge/Facebook-Truong%20Sinh-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-
-<br><br>
-
-💬 Always open to learning, collaboration and new opportunities!
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div>
+
+---
+
+## 🌱 Hiện Đang Học
+
+| Công nghệ | Tiến độ |
+|---|---|
+| ReactJS Nâng cao (Hooks, Context, Redux) | 🟩🟩🟩🟩⬜ |
+| JavaScript (ES6+) | 🟩🟩🟩🟩🟩 |
+| Tailwind CSS | 🟩🟩🟩🟩⬜ |
+| Responsive / UI Design | 🟩🟩🟩⬜⬜ |
+
+---
+
+## 💼 Mục Tiêu Nghề Nghiệp
+
+> 🚀 **Fresher Frontend Developer** — Mong muốn được đóng góp vào các dự án thực tế, phát triển kỹ năng trong môi trường chuyên nghiệp.
+>
+> 💡 Luôn học hỏi công nghệ mới, viết code sạch và xây dựng UI đẹp theo chuẩn hiện đại.
+
+---
+
+## 💫 Liên Hệ
+
+<div align="center">
+
+| | |
+|---|---|
+| 📧 Email | [sinhtruongvo@gmail.com](mailto:sinhtruongvo@gmail.com) |
+| 🔵 Facebook | [truongsinh.vo.77](https://www.facebook.com/truongsinh.vo.77) |
+| 📍 Vị trí | Hồ Chí Minh, Việt Nam |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
